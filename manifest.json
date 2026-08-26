@@ -4,10 +4,10 @@
   "allowedMods": [
     {
       "id": "sodium",
-      "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-      "fileName": "sodium-fabric-0.8.13+mc1.21.11.jar",
-      "sha256": "78d7b657406c2961e0a10d1d5c2703c519deb2030ec670163166f8a0a1152176",
-      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "name": "sodium-fabric-0.8.11+mc1.21.11.jar",
+      "fileName": "sodium-fabric-0.8.11+mc1.21.11.jar",
+      "sha256": "9d1f1a7427c4e38a2dd8e8a4eb09cf8fd60a49467254324f99c598afb84b6685",
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/CL53p97Z/sodium-fabric-0.8.11%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
       "description": "Performans ve Grafik optimizasyonu"
     },
     {
