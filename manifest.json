@@ -44,10 +44,10 @@
     },
     {
       "id": "sodium-extra",
-      "name": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
-      "fileName": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
-      "sha256": "db9db6e2096c1180cf1bb099a6e1e8454b15c6f461c98ee491f4c23ec06c9723",
-      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/taHK5pw1/sodium-extra-fabric-0.9.3%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "name": "sodium-extra-fabric-0.9.1+mc1.21.11.jar",
+      "fileName": "sodium-extra-fabric-0.9.1+mc1.21.11.jar",
+      "sha256": "066fa0c090951e228ec9db5aa31696efe545b3c7cbcda4674d8d1a9362eee6ab",
+      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/zmsIDdn6/sodium-extra-fabric-0.9.1%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11",
       "description": "Sodium için ekstra grafik ve ince ayar seçenekleri"
     },
     {
