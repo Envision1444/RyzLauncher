@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-08-26T14:27:14Z",
+  "allowedMods": [
+    {
+      "id": "sodium",
+      "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
+      "fileName": "sodium-fabric-0.8.13+mc1.21.11.jar",
+      "sha256": "78d7b657406c2961e0a10d1d5c2703c519deb2030ec670163166f8a0a1152176",
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Performans ve Grafik optimizasyonu"
+    },
+    {
+      "id": "fabric-api",
+      "name": "fabric-api-0.141.6+1.21.11.jar",
+      "fileName": "fabric-api-0.141.6+1.21.11.jar",
+      "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f",
+      "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11",
+      "description": "Fabric modları için temel API ve kütüphane"
+    },
+    {
+      "id": "iris",
+      "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+      "fileName": "iris-fabric-1.10.7+mc1.21.11.jar",
+      "sha256": "58c55da18189c91a49f847d3cee451633a23b575fb69c0c5b65ddb274436cb19",
+      "downloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Shader (gölgelendirici) desteği ve OptiFine shader uyumluluğu"
+    },
+    {
+      "id": "ferrite-core",
+      "name": "ferritecore-8.2.0-fabric.jar",
+      "fileName": "ferritecore-8.2.0-fabric.jar",
+      "sha256": "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715",
+      "downloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "RAM (bellek) kullanımını azaltan optimizasyon modu"
+    },
+    {
+      "id": "lithium",
+      "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "fileName": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "sha256": "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b",
+      "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Sunucu ve oyun içi fizik/mantık optimizasyonu"
+    },
+    {
+      "id": "sodium-extra",
+      "name": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
+      "fileName": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
+      "sha256": "db9db6e2096c1180cf1bb099a6e1e8454b15c6f461c98ee491f4c23ec06c9723",
+      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/taHK5pw1/sodium-extra-fabric-0.9.3%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Sodium için ekstra grafik ve ince ayar seçenekleri"
+    },
+    {
+      "id": "reeses-sodium-options",
+      "name": "reeses-sodium-options-fabric-2.2.3+mc1.21.11.jar",
+      "fileName": "reeses-sodium-options-fabric-2.2.3+mc1.21.11.jar",
+      "sha256": "58dceea7fdc86c02de13fc02bfd09f119aede21233018084832d9f2dd05523e3",
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/P0MH4cn0/reeses-sodium-options-fabric-2.2.3%2Bmc1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Sodium ayarlar menüsünü iyileştiren kullanıcı arayüzü modu"
+    },
+    {
+      "id": "voicechat",
+      "name": "voicechat-fabric-1.21.11-2.6.22.jar",
+      "fileName": "voicechat-fabric-1.21.11-2.6.22.jar",
+      "sha256": "cb23bfdfb809671288b6d9f9ac3ff5842cd02e1397dd0040be260a73d4e32c62",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Yakınlık bazlı sesli sohbet (Proximity Voice Chat) modu"
+    },
+    {
+      "id": "dynamic-fps",
+      "name": "dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+      "fileName": "dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+      "sha256": "42c6f5526acb29713969156018ab08ac921a0a0f37c2a79a39e3783792caa04f",
+      "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Fab7e5Th/dynamic-fps-3.11.6%2Bminecraft-1.21.11-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+      "description": "Oyun odaksızken veya simge durumundayken FPS düşürerek kaynak tasarrufu sağlayan mod"
+    },
+    {
+      "id": "krypton",
+      "name": "krypton-0.2.10.jar",
+      "fileName": "krypton-0.2.10.jar",
+      "sha256": "94291d5690a0ced7fe7da7f380fdbdcbe03cdac8ad4227a037866ba7455eff8b",
+      "downloadUrl": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar?mr_download_reason=standalone&mr_game_version=1.21.11",
+      "description": "Minecraft ağ ve paket trafiği optimizasyon modu"
+    }
+  ]
+}
